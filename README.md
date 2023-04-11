@@ -4,6 +4,8 @@
 
 ![Screenshot](./screenshot.png)
 
+## Install
+
 FOR WINDOWS ONLY:
 1. In C:\Users\<username>\AppData\Roaming\audacity create a folder and name it "Theme".
 2. Inside the folder "Theme" create another folder and name it "custom".
