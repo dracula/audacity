@@ -14,7 +14,7 @@ NOTE: Do not rename the file names because audacity won't understand it.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/audacity/graphs/contributors).
 
 | [![Philipp Kosarev](https://github.com/PhilippKosarev.png?size=100)](https://github.com/PhilippKosarev) |
 | ---------------------------------------------------------------------------------------- |
