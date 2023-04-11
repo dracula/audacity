@@ -4,15 +4,13 @@
 
 ![Screenshot](./screenshot.png)
 
-## Install
-
 FOR WINDOWS ONLY:
-Download ImageCache.png.
-In C:\Users\<username>\AppData\Roaming\audacity create a folder "Theme", inside it create another folder "custom".
-Place the downloaded ImageCache.png inside the "custom folder".
+1. In C:\Users\<username>\AppData\Roaming\audacity create a folder and name it "Theme".
+2. Inside the folder "Theme" create another folder and name it "custom".
+3. Place the downloaded ImageCache.png inside the "custom" folder.
+4. In Audacity go to Edit>Preferences>Interface>Theme and set it to "custom".
 
-NOTE:
-Do not rename the file names because it won't work.
+NOTE: Do not rename the file names because audacity won't understand it.
 
 ## Team
 
