@@ -8,8 +8,7 @@
 
 FOR WINDOWS ONLY:
 Download ImageCache.png.
-In C:\Users\<username>\AppData\Roaming\audacity create a folder "Theme";
-Create another folder "custom" inside it.
+In C:\Users\<username>\AppData\Roaming\audacity create a folder "Theme", inside it create another folder "custom".
 Place the downloaded ImageCache.png inside the "custom folder".
 
 NOTE:
