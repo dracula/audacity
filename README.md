@@ -13,8 +13,8 @@ All instructions can be found at [draculatheme.com/audacity](https://draculathem
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/audacity/graphs/contributors).
 
 | [![Philipp Kosarev](https://github.com/PhilippKosarev.png?size=100)](https://github.com/PhilippKosarev) |
-| ---------------------------------------------------------------------------------------- |
-| [Philipp Kosarev](https://github.com/PhilippKosarev)                                               |
+| ------------------------------------------------------------------------------------------------------- |
+| [Philipp Kosarev](https://github.com/PhilippKosarev)                                                    |
 
 ## Community
 
