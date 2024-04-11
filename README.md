@@ -2,6 +2,8 @@
 
 > A dark theme for [Audacity](https://www.audacityteam.org/).
 
+(This theme is for Windows only)
+
 ![Screenshot](./screenshot.png)
 
 ## Install
