@@ -25,3 +25,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
+
+## Credits
+
+Most of the [icons](https://developer.gnome.org/hig/guidelines/ui-icons.html) in this theme are taken from the GNOME project.
