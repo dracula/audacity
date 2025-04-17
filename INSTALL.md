@@ -15,4 +15,4 @@ Download the [`ImageCache.png`](https://github.com/dracula/audacity/blob/main/Im
 5. In Audacity, go to `Edit > Preferences > Interface > Theme` and set it to `custom`
 6. Boom! It's Dracula Themed! 💜
 
-> Do not rename the file names because audacity won't understand it.
+> Do not rename the `ImageCache.png` because audacity won't pick up on it.
