@@ -1,0 +1,6 @@
+How to modify the theme:
+1. Assemble the icons in the SVG files, using Inkscape
+2. Export them as PNGs
+3. Drag and drop the PNGs into the audacity-dracula.kra, using Krita
+4. Move the imported PNGs to their appropriate places
+5. Export the whole image as ImageCache.png
